@@ -8,3 +8,5 @@ Although you can add shit without restrictions in the secondary branch👀
 The 2nd branch will basically have everything that the main has but is free to be used for testing and experimentation of everything
 
 Feel free to create more branches
+
+Additionally this Repo is private...Outside memebers cannot see the contents of the repo
