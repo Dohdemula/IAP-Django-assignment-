@@ -1,0 +1,17 @@
+<!-- ticket_list.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ticket List</title>
+</head>
+<body>
+    <h1>Ticket List</h1>
+    <ul>
+        {% for ticket in tickets %}
+            <li>{{ ticket.event_name }} - {{ ticket.event_date }} - {{ ticket.ticket_price }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
